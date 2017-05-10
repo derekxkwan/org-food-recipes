@@ -315,8 +315,7 @@
 - dried oregano
 - thyme
 - bay leaf
--parsley
-- 
+- parsley
 ** PASTA WITH MUSHROOM, BRUSSELS SPROUTS, AND PARMESAN
 - olive oil
 - brussels sprouts
@@ -397,3 +396,53 @@
 - parsley
 - porcini or cremini mushrooms
 - cows milk cheese
+** PASTA CON LE MELANZANE
+- parmesan/pecorino
+- eggplants (aubergines)
+- tomatoes
+- basil
+- mozzarella
+- garlic
+- onion
+- olive oil
+- salt/pepper
+- farfalle (or rigatoni)
+- black olives (opt)
+- red pepper (opt)
+** SOPA DE AJO
+- cubed french bread
+- olive oil
+- garlic
+- ham
+- smoked paprika
+- chicken broth
+- cayenne
+- salt/pepper
+- parsley
+- eggs
+** ETHIOPIAN CABBAGE DISH (TIKIL GOMEN)
+- olive oil
+- carrots
+- onion
+- salt/pepper
+- turmeric
+- cabbage
+- potatoes
+- garlic
+- ginger (opt)
+- cumin (opt)
+- jalapeno (opt)
+** SHAKSHUKA
+- olive oil
+- onion
+- red pepper (bell or other)
+- hot chili (jalapeno, serrano, other)
+- garlic
+- smoked paprika (or sweet hungarian)
+- cumin
+- tomatoes
+- salt/pepper
+- cilantro/parsley 
+- eggs
+- black olives, feta, artichoke (all opt)
+- bread
