@@ -396,7 +396,7 @@
 - parsley
 - porcini or cremini mushrooms
 - cows milk cheese
-** PASTA CON LE MELANZANE
+** PASTA CON LE MELANZANEaa
 - parmesan/pecorino
 - eggplants (aubergines)
 - tomatoes
@@ -446,3 +446,95 @@
 - eggs
 - black olives, feta, artichoke (all opt)
 - bread
+** PICADILLO
+- ground beef
+- roma tomatoes
+- potatoes
+- garlic
+- white onion
+- serrano or poblano
+- olive oil
+- cumin
+- redwine/tomato juice/chicken consomme/ water
+- salt/pepper
+- vinegar (opt)
+** TORTITAS DE PAPA CON QUESO
+- potatoes
+- fresh cheese shredded
+- egg
+- salt/pepper
+- flour
+- veggie oil
+- (serve with tomatoes or tuna)
+** SOPA DE LENTEJAS CON CHORIZO
+- mexican chorizo
+- lentils
+- tomatoes
+- onion
+- carrots
+- garlic
+- chicken broth
+- thyme
+- bay leaf
+- salt/pepper
+- water
+** FRIJOLES A LA CHARRA/FRIJOLES CHARRO
+- cooked pinto beans
+- onion
+- garlic
+- chorizo (mexican)
+- chopped bacon 
+- chopped tomatoes
+- serrano
+- cilantro
+- cooked ham (opt)
+- salt (opt)
+** MEXICAN VEGETABLE SOUP
+- tomato
+- onion
+- garlic
+- veggie oil
+- carrot
+- zucchini
+- green beans
+- potato
+- chicken/veggie stock
+- parsley
+- salt/pepper
+** CALABACITAS RELLENAS DE QUESO
+- zucchini-summer squash, medium size
+- white onion
+- garlic
+- bread crumbs
+- egg
+- parsley
+- oaxaca cheese
+- sauce: plum tomatoes/ olive oil/garlic/ white onion/ salt/ pepper
+** CHORIZO TACOS
+- veggie oil
+- mexican chorizo
+- corn tortillas
+- white onion
+- cilantro
+- radish
+- salt
+- salsa
+- lime
+** TAQUITOS DORADOS MEXICANOS (FLAUTAS)
+- chicken filling: chicken breast/ garlic/ onion/water/ salt
+- potato filling: potatoes/ salt
+- beef filling: flank or skirt beef/ onion/ garlic/ bay leaf/ water/ salt
+- tortillas
+- toothpicks
+- veggie oil for frying
+- cotija or fresh crumbled mexican cheese
+- mexican cream or creme fraiche
+** TACOS DE SUADERO
+- suadero meat (roast/brisket-like)
+- beef fat or veggie oil
+- water
+- corn tortillas
+- white onion
+- cilantro
+- salt
+- salsa
