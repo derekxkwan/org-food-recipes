@@ -581,6 +581,73 @@
 - garlic 
 - whole milk
 - cod
+** MOROCCAN BLACK-EYED PEAS (COWPEAS)
+- black-eyed peas
+- onion
+- tomato sauce
+- olive oil
+- cilantro
+- garlic
+- salt
+- cumin
+- paprika
+- ginger
+- cayenne
+- water
+** KEY SIR ALICHA (ETHIOPIAN BEETS AND POTATOES)
+- salt
+- onion
+- garlic
+- ginger
+- beets
+- water
+- potatoes
+- oil
+** LEBANESE-STYLE RED LENTIL SOUP
+- chicken stock
+- red lentils
+- olive oil
+- minced garlic
+- onion
+- cumin
+- cayenne (or regular) pepper
+- cilantro
+- lemon juice
+** BUCATINI ALL'AMATRICIANA
+- olive oil
+- pancetta/guanciale/chopped unsmoked bacon
+- red pepper flakes
+- salt/black pepper
+- minced onion
+- garlic
+- tomato w/ juices
+- dried bucatini/spaghetti
+- pecorino
+** BOURTHETO
+- olive oil
+- onion
+- tomatoes
+- tomato paste
+- cayenne
+- potatoes
+- salt
+- cod
+- water
+* CHINESE
+** TAIWANESE FRIED TOFU
+- extra firm tofu
+- soy sauce
+- black vinegar
+- sesame oil
+- white sugar
+- olive oil
+- garlic
+- green onions
+- salt/pepper
+** HAINANESE CHICKEN RICE
+- chicken: chicken/garlic/ginger/salt
+- rice: rice/chicken stock/garlic/ginger
+- garnish: green onion/ olive oil/salt
 * FILIPINO
 ** PANCIT
 - dried rice noodles
@@ -661,3 +728,18 @@
 - lime
 - chicken broth
 - black pepper
+** TORTANG TALONG
+- eggplants
+- eggs
+- salt/pepper
+- oil
+** ARROZ CALDO
+- onion
+- garlic
+- ginger
+- chicken
+- patis (fish sauce)
+- pepper
+- chicken stock
+- scallion
+- jasmine rice
