@@ -648,6 +648,93 @@
 - chicken: chicken/garlic/ginger/salt
 - rice: rice/chicken stock/garlic/ginger
 - garnish: green onion/ olive oil/salt
+** BOILED WHITE CHICKEN IN SPRING ONION SAUCE
+- chicken boiled with mashed spring onion/ginger for 30 min
+- sauce from spring onion/ginger/chili/salt/chicken stock
+** SALT AND PEPPER CRISPY FRIED TOFU
+- firm tofu
+- salt/pepper
+- onion
+- spring onion
+- chili (red)
+- ginger
+- garlic
+- flour for coating
+- oil for frying
+** COLD CUCUMBER MIX
+- cucumber
+- ginger
+- chili (red)
+- salt
+- sugar
+- vinegar
+- sesame oil
+- vegetable starch
+- plastic bag for mixing
+** CRISPY CHINESE CHIVE TWISTS
+- lightly boiled chinese chives
+- coating: rice flour/reg. flour/egg/oil/water
+- dip: ketchup/oyster sauce/lemon juice/chopped coriander
+** TAIWANESE BEEF STEW
+- beef (rib or stewing)
+- red onion
+- carrots
+- tomatoes
+- ketchup
+- ginger
+- spring onions
+- coriander
+- chili
+- soy sauce
+- rice cooking wine
+- oil
+- sugar
+** LOU ROU FAN (EASY)
+- pork mince
+- boiled eggs
+- rice wine
+- light soy
+- dark soy
+- garlic oil
+- oyster sauce
+- chinese mushrooms
+- star anise
+- white pepper
+- 5 spice
+- fish powder
+- salt
+- sugar
+- coriander
+- spring onion
+- onion powder
+** EGGPLANT SALAD
+- aubergines
+- ginger
+- spring onion
+- chili (red)
+- coriander
+- sugar
+- vinegar
+- oyster sauce
+- fish sauce
+- sesame oil
+- boiling water
+- very hot oil
+** OCTOPUS (OR SQUID) IN TOMATO SAUCE
+- octopus (or squid)
+- tomatoes
+- spring onion
+- half a regular onion
+- garlic cloves
+- ginger
+- white pepper
+- salt
+- fish sauce
+- rice wine
+- tomato ketchup
+- sugar
+- corn flour
+- water
 * FILIPINO
 ** PANCIT
 - dried rice noodles
