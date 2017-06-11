@@ -735,6 +735,147 @@
 - sugar
 - corn flour
 - water
+** JAPANESE STYLE PORK CHOPS
+- pork chops
+- flour
+- 2 eggs, beaten
+- breadcrumbs
+- rice vinegar/soy sauce/mirin
+** BACON FRIED RICE STUFFED OMELETTE
+- eggs
+- onion
+- carrot
+- spring onion
+- cooked rice
+- bacon
+- hot dogs
+- corn
+- salt/pepper/cooking oil/sesame oil/ ketchup
+** TAIWANESE STYLE HOT AND SOUR SOUP
+- sliced carrot
+- chinese cabbage
+- sliced tofu
+- sliced wood ear fungus
+- sliced mushrooms
+- sliced bamboo
+- egg
+- water with 2 tbsp cornflour
+- lean sliced pork marinated w/ rice wine, white pepper, 1 tbsp cornflour
+- half a red chili w/ spring onion and ginger pieces
+- sugar
+- wine or cider vinegar
+** LEMON PEPPER SALTED PORK TAIWANESE STYLE
+- 4 slices of belly pork
+- frseh black pepper
+- salt
+- a lemon
+** SESAME CHICKEN, TAIWANESE STYLE
+- chicken breasts
+- soy sauce
+- rice wine
+- honey
+- sesame oil
+- half a beaten egg
+- coating: flour/1.5 beaten eggs/ cornflour/sweet potato flour/sesame seeds
+- sauce: soy sauce/ chicken stock/ sesame oil/
+  white vinegar/ ketchup/ honey/ white pepper/ cornflour
+** DAN BIN
+- cooked and cripy bacon (or sausage or chicken)
+- tortilla wrap
+- 2 eggs
+- grated cheese
+- ketchup
+- oil
+** CRISPY FRIED BANANA TAIWANESE STYLE
+- bananas
+- flour
+- egg
+- breadcrubs
+- dips/coating: coconut powder/ peanut powder/ condensed milk/ ice cream/custard
+** PORK TENDERLOIN WITH GINGER AND SPRING ONION
+- half a pork tenderloin fillet, sliced thinly
+- soy sauce
+- corn flour
+- cooking oil
+- rice wine
+- spring onions
+- ginger
+- half an onion
+- half a chili
+- garlic
+- sauce: soy sauce/oyster sauce/sesame oil
+- toasted almonds garnish
+** SALT AND PEPPER SQUID
+- 2 medium squid
+- 1 red chili
+- 1 green chili
+- half a green pepper
+- half an onion
+- 2 cloves of garlic
+- ginger
+- salt/pepper
+- coating: flour/egg/potato flour
+** CUMIN CHICKEN CHUNKS
+- chicken breasts, cubed
+- carrot
+- half a green pepper
+- half a red pepper
+- half an onion
+- garlic
+- spring onions
+- ginger
+- red chili
+- spices: cumin powder/chili powder/ginger powder/sugar/soy sauce/
+  thick soy sauce/ rice wine/ sesame oil/ tapioca flour
+** BRAISED TOFU TAIWANESE VEGETARIAN STYLE
+- tofu
+- 3 colors of pepper (half each)
+- celery
+- wood ear fungus
+- shiitake
+- spring onion
+- chili
+- ginger
+- sauce: soy sauce/thick soy sauce/ sesame oil/ corn flour/
+  cube of veggie stock/sugar
+** DONG PO PORK
+- belly pork (one lb)
+- spring onions
+- ginger
+- dark soy sauce
+- regular soy sauce
+- rock/crystal sugar
+- rice wine
+- five spice powder
+- bok choy
+** TAIWANESE STYLE BRAISED CHICKEN
+- chicken legs
+- soy sauce
+- dark soy sauce
+- rock sugar
+- white or red rice wine
+- veg: whole chili/spring onion/ginger/onion
+- spices: 5 spice (cinnamon/cloves/cardamom/star anise/licorice root)
+- sesame oil
+- half a cauliflower
+** SCALLION OIL NOODLES
+- cooking oil
+- 2 stalks scallion
+- fresh noodles
+- oyster sauce
+- soy sauce
+** BACON FRIED RICE
+- rice
+- onion
+- leek
+- carrot
+- eggs
+- bacon
+- spring onion
+- salt/pepper
+- mirin (sweet vinegar)
+- cooking oil
+- sesame oil
 * FILIPINO
 ** PANCIT
 - dried rice noodles
