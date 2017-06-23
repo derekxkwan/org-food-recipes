@@ -633,6 +633,27 @@
 - salt
 - cod
 - water
+** GREEK ROASTED POTATOES (TEMP 400F)
+- baby potatoes
+- olive oil
+- garlic
+- red pepper
+- salt
+- black pepper
+- paprika
+- oregano
+** CREAMY GARLIC PARMESAN FETTUCINE
+- fettucine
+- olive oil
+- butter
+- garlic
+- chicken broth
+- heavy cream (1/3 cup)
+- salt
+- black pepper
+- parsley
+- parmesan
+- lemon wedges
 * CHINESE
 ** TAIWANESE FRIED TOFU
 - extra firm tofu
@@ -1005,6 +1026,182 @@
 - soy sauce
 - salt
 - green onion
+** HOT AND SOUR SOUP (EASY)
+- corn starch + water (stirred
+- chicken broth + water
+- soft tofu
+- white button mushrooms or shiitake
+- soy sauce
+- chinese vinegar
+- dark soy sauce (coloring)
+- white or black pepper
+- scallion
+- bamboo shoots (opt)
+- sesame oil (opt)
+- dried red chili peppers (opt)
+- pork shoulder/loin (opt)
+- wood ears (opt)
+** ANTS CLIMBING A TREE I
+- vermicelli/glass noodles
+- oil
+- ginger
+- spicy fermented bean sauce/paste
+- ground pork
+- chicken stock
+- sugar
+- dark soy sauce
+- light soy sauce
+- scallion
+** ANTS CLIMBING A TREE II
+- verimicelli/ glass noodles
+- shiitake
+- ground pork
+- light soy sauce
+- granulated sugar
+- sesame oil
+- corn starch
+- red chili pepper
+- ginger
+- green onions
+** EGGPLANT STRING BEAN STIR-FRY
+- oil
+- green beans
+- purple eggplant (long)
+- ginger
+- garlic
+- red holland chili (or bell pepper)
+- light soy sauce
+- oyster sauce
+- salt
+- white pepper
+** CABBAGE AND GLASS NOODLES STIR-FRY
+- cellophane noodles
+- cabbage cut into strips
+- 2 eggs
+- salt
+- sesame oil
+- shaoxing wine
+- oil
+- dried red chilis
+- garlic
+- scallions
+- white pepper
+- soy sauce
+** QUICK AND EASY BRAISED TOFU (HONGSHAO DOFU)
+- corn starch
+- water
+- medium firm tofu
+- black mushrooms/shiitake
+- chicken or veggie stock
+- oyster sauce
+- sesame oil
+- light soy sauce
+- dark soy sauce
+- shaoxing wine
+- sugar
+- salt
+- oil
+- garlic
+- snow peas
+- small carrot, thinly sliced
+- smalled red bell pepper
+- bamboo shoots (opt)
+** SUAN LA BAI CAI - SICHUAN HOT AND SOUR CABBAGE STIR-FRY
+- sauce: light soy sauce/black vinegar/sugar/oyster sauce
+- corn starch
+- water
+- canola or veggie oil
+- garlic
+- dried red chilies
+- scallion
+- napa cabbage
+- salt
+** 10-MINUTE TOMATO EGG DROP NOODLE SOUP (FROM WOKS OF LIFE)
+- noodles of choice
+- veggie oil
+- garlic
+- scallion (green and white parts separate)
+- tomatoes
+- chicken, veggie, or mushroom stock
+- soy sauce
+- white pepper
+- sesame oil
+- salt
+- egg, beaten
+** LAZY NOODLES (FROM WOKS OF LIFE BLOG)
+- wheat noodles
+- oil
+- ground meat
+- onion
+- garlic
+- baby spinach
+- salt/pepper
+- soy sauce
+- sesame oil
+- honey/sugar
+- chili oil (opt)
+** LIANGBAN DOFU - SPICY COLD TOFU
+- soy sauce
+- douban jiang spicy bean paste
+- sesame oil
+- sugar
+- garlic
+- scallion
+- silken tofu
+- thai basil (opt)
+- cilantro (opt)
+** 10-MINUTE BROCCOLI TOFU BOWL (FROM WOKS OF LIFE)
+- firm tofu
+- chicken or veggie stock
+- soy sauce
+- dark soy sauce
+- shaoxing wine
+- sesame oil
+- sugar
+- veggie oil
+- garlic
+- broccoli
+- corn starch
+** YOU PO MIAN
+- dried wheat noodles
+- spinach/bok choy
+- light soy sauce
+- dark soy sauce
+- black vinegar
+- red pepper flakes
+- salt
+- scallion
+- cilantro
+- garlic
+- oil
+** ENOKI MUSHROOMS WITH GARLIC AND SCALLION SAUCE (WOKS OF LIFE)
+- enoki mushrooms
+- oil
+- garlic
+- light soy sauce
+- sugar
+- scallion
+** SHANGHAI FRIED NOODLES (WOKS OF LIFE)
+- pork:lean pork (opt), corn starch, light soy sauce, dark soy sauce. shaoxing wine, sugar
+- oil
+- shiitake
+- udon
+- dark soy sauce
+- soy sauce
+- sugar
+- choy sum/bok choy
+** CANTONESE SOY SAUCE PAN-FRIED NOODLES (WOKS OF LIFE)
+- bean sprouts
+- scallions
+- soy sauce
+- dark soy sauce
+- sesame oil
+- salt
+- sugar
+- shaoxing
+- white pepper
+- egg noodles (for pan-frying)
+- oil
 * FILIPINO
 ** PANCIT
 - dried rice noodles
