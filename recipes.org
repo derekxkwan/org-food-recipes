@@ -1265,6 +1265,92 @@
 - eggs (slightly beaten)
 - scallion
 - cilantro (opt)
+** EASY FIVE-SPICE BAKED CHICKEN (WOKS OF LIFE)
+- soy sauce
+- salt
+- five-spice powder
+- red onion
+- garlic
+- oil
+- shaoxing wine
+- sesame oil
+** EASY FISH TOFU SOUP (WOKS OF LIFE)
+*** FISH
+- tilapia/catfish
+- cornstarch
+- light soy sauce
+- shaoxing
+- sesame oil
+- salt
+- white pepper
+*** SOUP
+- oil
+- ginger
+- shiitake
+- dried red chilies
+- bean sprouts
+- chicken stock
+- water
+- napa cabbage
+- firm tofu
+- sesame oil
+- salt
+- scallion cilantro
+** DOUBAN YU - STEAMED FISH W/ SPICY BEAN SAUCE
+- white fish
+- shiitake
+- carrot
+- red pepper
+- onion
+- ground pork (opt)
+- water
+- cornstarch
+- shaoxing
+- douban jiang
+- hoisin
+- sesame oil
+- sugar
+- white pepper
+- oil
+- garlic
+- water
+- scallion
+** SAN BEI JI - THREE CUP CHICKEN
+- chicken wings
+- sesame oil
+- ginger
+- garlic
+- shaoxing
+- dark soy sauce
+- soy sauce
+- thai basil (opt)
+- green onions (opt)
+- dried red chilis (opt)
+** SICHUAN EGGPLANT (FISH-FRAGRANT EGGPLANT)
+- chinese eggplant
+- chicken/veggie stock or water
+- douban jiang
+- soy sauce
+- black vinegar
+- rice wine
+- sugar
+- peanut/veggie oil
+- garlic
+- ginger
+- cornstarch
+- sichuan pepper
+- scallions
+** TWICE-COOKED PORK
+- pork belly
+- black bean paste
+- peanut/veggie oil
+- finger
+- leek (white part only)
+- soy sauce
+- rice wine
+- chili bean sauce
+- sesame oil
+- sugar
 * FILIPINO
 ** PANCIT
 - dried rice noodles
