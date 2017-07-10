@@ -1162,7 +1162,7 @@
 - garlic
 - broccoli
 - corn starch
-** YOU PO MIAN
+** YOU PO MIAN - HOT OIL NOODLES
 - dried wheat noodles
 - spinach/bok choy
 - light soy sauce
@@ -1351,6 +1351,115 @@
 - chili bean sauce
 - sesame oil
 - sugar
+** CONG YOU BAN MIAN - SOY SCALLION SHANGHAI NOODLES
+- oil
+- julienned scallion
+- dark soy sauce
+- light soy sauce
+- sugar
+- chinese white noodles
+- ground pork/oil/scallion (opt)
+** SEAWEED EGG DROP SOUP
+- dried seaweed
+- 2 beaten eggs
+- chicken stock
+- ginger
+- corn starch/water
+- salt/pepper
+- dried baby shrimp
+- chopped scallion
+** SPICY LOTUS ROOT
+- lotus root
+- garlic
+- dried chili
+- soy sauce
+- black vinegar
+- sugar
+- sesame oil
+- chili oil
+- salt
+- sichuan  peppercorn (opt)
+- toasted sesame/scallions
+** SICHUAN CUCUMBER SALAD
+- 1/2 cucumbers
+- salt
+- oil
+- garlic
+- sichuan pepper
+- rice vinegar
+- sesame oil
+- sugar
+- chili garlic paste
+** CONG XIANG QIE NI - STIR FRIED EGGPLANT WITH GREEN ONION
+- eggplant (chinese)
+- green onion
+- chicken stock
+- salt/sugar/sesame oil
+** JIUA CAI JIAN YU PIAN - PAN FRIED FISH FILLET WITH CHINESE LEEK
+- fish fillet (white)
+- chinese leek chives
+- veggie oil
+- salt
+** QING CHAO HUA CAI - STIR FRIED CAULIFLOWER
+- cauliflower
+- chicken stock
+- veggie oil
+- salt
+- green onion
+** QING CAI YU PIANG GENG - TILAPIA FILLET SOUP WITH BOK CHOY
+- tilapia
+- chicken stock
+- bok choy
+- green onion
+- ginger
+- salt
+** CONG YOU LUO BO SI - DAIKON SALAD WITH GREEN ONION
+- daikon
+- green onion
+- salt
+- veggie oil
+- sugar
+- sesame oil
+** SHANDONG-STYLE ASPARAGUS
+- asparagus
+- light soy
+- sesame oil
+- chili oil
+- white sesame seeds
+** STIR-FRIED VERMICELLI WITH GARLIC AND SCALLIONS (APPETITE FOR CHINA)
+- rice vermicelli noodles
+- soy sauce
+- rice wine
+- water
+- sugar
+- black pepper
+- oil
+- red onion
+- garlic
+- ginger
+- scallions
+** A NA HAI MU LA JIAO XIAO CHAO ROU - PAN FRIED PORK SLICES WITH ANAHIM PEPPER
+- pork slices (shoulder)
+- anaheim pepper
+- soy sauce
+- sugar
+- ginger
+- green onion
+** XIANG GU CHAO QING CAI - STIR FRIED BOK CHOY WITH SHIITAKE MUSHROOM
+- bok choy
+- shiitake
+- canola oil
+- corn starch
+- salt/sugar
+** LIANG CAI - TOFU SPINACH SALAD
+- tofu
+- spinach leaves
+- salt
+- light soy
+- old vinegar/rice vinegar
+- white sugar
+- chili oil (opt)
+- sesame oil
 * FILIPINO
 ** PANCIT
 - dried rice noodles
