@@ -1,13 +1,4 @@
-* RECIPE INGREDIENTS
-** MAPO TOFU
-- silken tofu
-- ground pork
-- light soy sauce
-- garlic
-- scallions
-- sesame oil
-- mapo tofu sauce
-- water/broth
+* MEXICAN
 ** POZOLE
 - pork shoulder
 - garlic
@@ -36,29 +27,7 @@
 - garlic
 - chile serrano
 - chicken broth
-** SALMON WITH FENNEL
-- fennel bulbs
-- red onion
-- garlic
-- cherry or grape tomatoes
-- thyme
-- kosher salt
-- black pepper
-- olive oil
-- salmon
-- lemon
-** SPINACH TOMATO TORTELLINI
-- tortellini
-- tomatoes
-- garlic
-- onion
-- spniach
-- salt
-- pepper
-- dried basil
-- flour
-- milk
-- heavy cream
+
 ** ENCHILADAS VERDES
 - garlic
 - serrano peppers
@@ -91,26 +60,7 @@
 - serrano
 - egg
 - cumin
-** SPINACH AND GARBANZOS
-- garlic
-- onion
-- spinach
-- garbanzos
-- cumin
-- salt
-- tomato sauce
-- sherry vinegar
-- smoked paprika
-** FETTUCCINE ALFREDO WITH BACON
-- fettuccine
-- bacon
-- garlic
-- flour and milk (or heavy cream)
-- parmigiano-reggiano (or parmesan)
-- salt
-- parsley
-- pepper
-- can add spinach
+
 ** RODRIGO-STYLE FISH
 - tilapia (or rockfish, grouper)
 - salt
@@ -123,41 +73,6 @@
 - olive oil
 - jalapeno or serrano
 - soy sauce
-** HARIRA
-- butter 
-- olive oil
-- onions
-- tomatoes
-- cilantro
-- salt
-- pepper
-- ginger
-- cinnamon
-- turmeric
-- cumin
-- lentils
-- chickpeas
-- water (or veggie stock)
-- orzo
-** PASTA WITH ANCHOVIES (NO TOMATO)
-- egg yolks
-- oregano
-- lemon zest
-- pepper
-- anchovies
-- garlic
-- olive oil
-- spaghetti
-- parsley
-** FISHERMAN'S EGGS
-- sardines
-- onions
-- garlic
-- olive oil
-- eggs
-- parsley/chives
-- ground pepper
-- salt
 ** PESCADO A LA VERACRUZANA
 - capers (opt)
 - green olives
@@ -253,16 +168,7 @@
 - garlic
 - parsley
 - flour
-** FISH FILLETS IN PARSLEY SAUCE
-- white-meat fish
-- parsley
-- heavy cream
-- fish broth or wawter
-- white onion
-- garlic
-- lime
-- veggie oil
-- salt/pepper
+
 ** QUESO FUNDIDO
 - poblano chiles (or jalapeno)
 - chorizo
@@ -294,158 +200,7 @@
 - chicken thighs
 - salt/pepper
 - white onion
-** ROASTED MUSHROOMS WITH CHILE-LEMON OIL
-- olive oil
-- garlic cloves
-- shallot
-- thyme
-- fresno chiles
-- lemon
-- mixed mushrooms (maitake, enoki, oyster, etc)
-- salt/pepper
-** CHICKEN NOODLE SOUP
-- butter
-- onion
-- celery
-- chicken broth
-- chicken breast
-- egg noodles
-- carrots
-- dried basil
-- dried oregano
-- thyme
-- bay leaf
-- parsley
-** PASTA WITH MUSHROOM, BRUSSELS SPROUTS, AND PARMESAN
-- olive oil
-- brussels sprouts
-- salt/pepper
-- mushrooms
-- shallot
-- garlic
-- thyme
-- butter
-- lemon
-- chicken stock
-- orecchiette
-- parmesan cheese
-** RED BEANS AND RICE
-- red beans
-- andouille sausage
-- olive oil
-- garlic
-- onions
-- celery
-- green bell pepper
-- black pepper
-- cayenne
-- salt
-- bay leaves
-- dried basil
-- rubbed sage
-- parsley
-- green onions
-- rice
-** BACALAO EN SALSA VERDE
-- cod
-- garlic powder
-- fresh parsley
-- chopped parsley
-- flour
-- water
-- salt
-- olive oil
-** CHILE VERDE
-- pork shoulder
-- anahim (or serrano) peppers
-- tomatillo (or jalapeno) peppers
-- garlic
-- white or yellow onion
-- flour
-- chicken stock (or water)
-- cilantro
-- cumin (optional) 
-- oregano (optional)
-** ALOO PHUJIA
-- cumin
-- potato
-- cayenne pepper
-- tomatoes
-- turmeric
-- salt
-- veggie oil
-- onion
-** CREAM OF ARTICHOKE SOUP
-- butter
-- garlic
-- onion
-- artichoke hearts
-- chicken stock
-- heavy cream
-- salt/pepper
-- lemon
-** PORCINI, ARTICHOKE, AND PARSLEY SALAD
-- water
-- lemon juice
-- artichokes
-- thyme
-- pepper
-- salt
-- anchovy 
-- olive oil
-- parsley
-- porcini or cremini mushrooms
-- cows milk cheese
-** PASTA CON LE MELANZANE
-- parmesan/pecorino
-- eggplants (aubergines)
-- tomatoes
-- basil
-- mozzarella
-- garlic
-- onion
-- olive oil
-- salt/pepper
-- farfalle (or rigatoni)
-- black olives (opt)
-- red pepper (opt)
-** SOPA DE AJO
-- cubed french bread
-- olive oil
-- garlic
-- ham
-- smoked paprika
-- chicken broth
-- cayenne
-- salt/pepper
-- parsley
-- eggs
-** ETHIOPIAN CABBAGE DISH (TIKIL GOMEN)
-- olive oil
-- carrots
-- onion
-- salt/pepper
-- turmeric
-- cabbage
-- potatoes
-- garlic
-- ginger (opt)
-- cumin (opt)
-- jalapeno (opt)
-** SHAKSHUKA
-- olive oil
-- onion
-- red pepper (bell or other)
-- hot chili (jalapeno, serrano, other)
-- garlic
-- smoked paprika (or sweet hungarian)
-- cumin
-- tomatoes
-- salt/pepper
-- cilantro/parsley 
-- eggs
-- black olives, feta, artichoke (all opt)
-- bread
+
 ** PICADILLO
 - ground beef
 - roma tomatoes
@@ -538,6 +293,262 @@
 - cilantro
 - salt
 - salsa
+
+** CHILE VERDE
+- pork shoulder
+- anahim (or serrano) peppers
+- tomatillo (or jalapeno) peppers
+- garlic
+- white or yellow onion
+- flour
+- chicken stock (or water)
+- cilantro
+- cumin (optional) 
+- oregano (optional)
+
+* SPANISH
+** SPINACH AND GARBANZOS
+- garlic
+- onion
+- spinach
+- garbanzos
+- cumin
+- salt
+- tomato sauce
+- sherry vinegar
+- smoked paprika
+
+** BACALAO EN SALSA VERDE
+- cod
+- garlic powder
+- fresh parsley
+- chopped parsley
+- flour
+- water
+- salt
+- olive oil
+
+** SOPA DE AJO
+- cubed french bread
+- olive oil
+- garlic
+- ham
+- smoked paprika
+- chicken broth
+- cayenne
+- salt/pepper
+- parsley
+- eggs
+
+* RECIPE INGREDIENTS
+** MAPO TOFU
+- silken tofu
+- ground pork
+- light soy sauce
+- garlic
+- scallions
+- sesame oil
+- mapo tofu sauce
+- water/broth
+** SALMON WITH FENNEL
+- fennel bulbs
+- red onion
+- garlic
+- cherry or grape tomatoes
+- thyme
+- kosher salt
+- black pepper
+- olive oil
+- salmon
+- lemon
+** SPINACH TOMATO TORTELLINI
+- tortellini
+- tomatoes
+- garlic
+- onion
+- spniach
+- salt
+- pepper
+- dried basil
+- flour
+- milk
+- heavy cream
+** FETTUCCINE ALFREDO WITH BACON
+- fettuccine
+- bacon
+- garlic
+- flour and milk (or heavy cream)
+- parmigiano-reggiano (or parmesan)
+- salt
+- parsley
+- pepper
+- can add spinach
+** HARIRA
+- butter 
+- olive oil
+- onions
+- tomatoes
+- cilantro
+- salt
+- pepper
+- ginger
+- cinnamon
+- turmeric
+- cumin
+- lentils
+- chickpeas
+- water (or veggie stock)
+- orzo
+** PASTA WITH ANCHOVIES (NO TOMATO)
+- egg yolks
+- oregano
+- lemon zest
+- pepper
+- anchovies
+- garlic
+- olive oil
+- spaghetti
+- parsley
+** FISHERMAN'S EGGS
+- sardines
+- onions
+- garlic
+- olive oil
+- eggs
+- parsley/chives
+- ground pepper
+- salt
+** FISH FILLETS IN PARSLEY SAUCE
+- white-meat fish
+- parsley
+- heavy cream
+- fish broth or wawter
+- white onion
+- garlic
+- lime
+- veggie oil
+- salt/pepper
+** ROASTED MUSHROOMS WITH CHILE-LEMON OIL
+- olive oil
+- garlic cloves
+- shallot
+- thyme
+- fresno chiles
+- lemon
+- mixed mushrooms (maitake, enoki, oyster, etc)
+- salt/pepper
+** CHICKEN NOODLE SOUP
+- butter
+- onion
+- celery
+- chicken broth
+- chicken breast
+- egg noodles
+- carrots
+- dried basil
+- dried oregano
+- thyme
+- bay leaf
+- parsley
+** PASTA WITH MUSHROOM, BRUSSELS SPROUTS, AND PARMESAN
+- olive oil
+- brussels sprouts
+- salt/pepper
+- mushrooms
+- shallot
+- garlic
+- thyme
+- butter
+- lemon
+- chicken stock
+- orecchiette
+- parmesan cheese
+** RED BEANS AND RICE
+- red beans
+- andouille sausage
+- olive oil
+- garlic
+- onions
+- celery
+- green bell pepper
+- black pepper
+- cayenne
+- salt
+- bay leaves
+- dried basil
+- rubbed sage
+- parsley
+- green onions
+- rice
+** ALOO PHUJIA
+- cumin
+- potato
+- cayenne pepper
+- tomatoes
+- turmeric
+- salt
+- veggie oil
+- onion
+** CREAM OF ARTICHOKE SOUP
+- butter
+- garlic
+- onion
+- artichoke hearts
+- chicken stock
+- heavy cream
+- salt/pepper
+- lemon
+** PORCINI, ARTICHOKE, AND PARSLEY SALAD
+- water
+- lemon juice
+- artichokes
+- thyme
+- pepper
+- salt
+- anchovy 
+- olive oil
+- parsley
+- porcini or cremini mushrooms
+- cows milk cheese
+** PASTA CON LE MELANZANE
+- parmesan/pecorino
+- eggplants (aubergines)
+- tomatoes
+- basil
+- mozzarella
+- garlic
+- onion
+- olive oil
+- salt/pepper
+- farfalle (or rigatoni)
+- black olives (opt)
+- red pepper (opt)
+** ETHIOPIAN CABBAGE DISH (TIKIL GOMEN)
+- olive oil
+- carrots
+- onion
+- salt/pepper
+- turmeric
+- cabbage
+- potatoes
+- garlic
+- ginger (opt)
+- cumin (opt)
+- jalapeno (opt)
+** SHAKSHUKA
+- olive oil
+- onion
+- red pepper (bell or other)
+- hot chili (jalapeno, serrano, other)
+- garlic
+- smoked paprika (or sweet hungarian)
+- cumin
+- tomatoes
+- salt/pepper
+- cilantro/parsley 
+- eggs
+- black olives, feta, artichoke (all opt)
+- bread
 ** MOFONGO
 - green plantains
 - chicarron (crunchy pork skin)
@@ -1649,3 +1660,93 @@
 - bell peppers (sliced)
 - garlic
 - tomatoes (chopped)
+** COUSCOUS WITH OLIVES AND SUN-DRIED TOMATO (ALLRECIPES)
+- veggie broth
+- water
+- couscous
+- salt/pepper
+- olive oil
+- garlic
+- shallot
+- black olives
+- sun dried tomatoes
+- parsley
+** FAVA BEAN BREAKFAST SPREAD (ALLRECIPES, SERVE WITH PITA)
+- fava beans
+- olive oil
+- onion
+- tomato
+- cumin
+- parsley
+- lemon juice
+- salt/pepper
+- red pepper
+** FASOLATHA
+- white kidney beans
+- onion
+- carrots
+- celery
+- tomatoes
+- tomato paste
+- oregano
+- thyme
+- olve oil
+- water
+- parsley
+- salt/pepper
+** MAC AND CHEESE (ALLRECIPES)
+- elbow macaroni
+- sharp cheddar
+- parmesan (or romano)
+- milk
+- butter
+- all-purpose flour
+- butter
+- bread crumbs
+- paprika
+- dry mustard powder
+- garlic
+** SAUSAGE GRAVY
+- sausage (pork)
+- butter
+- all-purpose flour
+- salt/pepper
+- milk
+** BLACKENED FISH I
+- catfish/snapper
+- paprika
+- cayenne
+- oregano (opt)
+- white pepper (opt)
+- salt/pepper
+- garlic powder
+- onion powder (opt)
+- dried basil (opt)
+- thyme
+- oregano
+- butter
+- italian salad dressing (opt)
+** ROASTED CAULIFLOWER (450 F, 15-20 per side)
+- cauliflower
+- olive oil
+- garlic powder (or garlic)
+- salt/pepper
+- lemon juice (opt)
+- red pepper flakes (opt)
+** ROASTED BRUSSELS SPROUTS (450 F, 20 min)
+- brussels sprouts
+- butter
+- cipollini onions/ white onion (opt)
+- salt/pepper
+- lemon juice
+- garlic (opt)
+** COLLARD GREENS
+- olive oil
+- bacon/ham hock
+- onion
+- garlic
+- salt/pepper
+- chicken broth
+- red pepper flakes (opt)
+- collard greens
+- white vinegar
