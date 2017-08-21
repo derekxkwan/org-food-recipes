@@ -1566,6 +1566,14 @@
 - chicken stock
 - scallion
 - jasmine rice
+** SALMON (OR COD/TILAPIA) SARCIADO
+- salmon/cod/tilapia
+- salt/pepper
+- cooking oil
+- onion
+- garlic
+- tomatoes
+- egg
 * MISC
 ** FASOLIYYEH BI Z-ZAYT (SYRIAN GREEN BEANS AND OLIVE OIL)
 - green beans
@@ -1750,3 +1758,129 @@
 - red pepper flakes (opt)
 - collard greens
 - white vinegar
+** SPAGHETTI PUTTANESCA
+- anchovies
+- spaghetti
+- salt/pepper
+- garlic
+- olive oil
+- red pepper flakes
+- capers (opt)
+- black olives
+- tomatoes
+- parsley
+- pecorino/parmesan
+- basil (opt)
+** SOUTHERN FRIED CABBAGE
+- bacon/sausage
+- veggie oil (opt)
+- salt/pepper
+- cabbage
+- white onion
+- white sugar
+- garlic (opt)
+** TURKISH KISIR
+- couscous
+- red onion
+- veggie stock
+- lemon juice
+- tomato paste
+- olive oil
+- parsley
+- salt pepper
+
+** TAVA TURKISH STEW
+- olive oil
+- chicken breasts
+- roasted red bell peppers
+- diced tomatoes
+- mushrooms
+- onion
+- minced garlic
+- salt/pepper
+- mozzarella cheese
+** GREEK LENTIL SOUP (FAKES)
+- brown lentils
+- olive oil
+- minced garlic
+- onion
+- carrot
+- water
+- oregano
+- rosemary
+- bay leaves
+- tomato paste
+- red wine vinegar
+- olive oil
+- salt/pepper
+
+** GREEK AVGOLEMONO CHICKEN SOUP
+- chicken stock
+- onion
+- cooked white rice
+- 2 egg yolks
+- lemon juice
+- chicken
+- oregano (or dill)
+- pepper
+
+** ISRAELI SALAD
+- cucumbers
+- roma tomatoes
+- green onions
+- red bell pepper
+- garlic
+- parsley
+- mint
+- olive oil
+- lemon juice
+- salt/pepper
+** FATOOSH
+- pita bread
+- green onoins
+- cucumber
+- roma tomatoes
+- parsley
+- garlic
+- mint
+- olive oil
+- lemon juice
+- sumac (opt)
+
+** CHARD LENTIL SOUP (LEBANESE)
+- water
+- brown lentils
+- swiss chard
+- potatoes
+- lemon juice
+- garlic
+- salt/pepper
+- olive oil
+** TACO RICE
+- veggie oil
+- garlic
+- onion
+- ground beef
+- soy sauce
+- chili powder
+- cumin
+- salt/pepper
+- sushi rice
+- lettuce
+- tomatoes
+- shredded cheese (or queso blanco)
+- salsa
+- sour cream
+** KEEMA
+- olive oil
+- onion
+- ginger
+- garlic
+- jalapenos
+- ground beef
+- turmeric
+- cumin
+- curry powder
+- cayenne
+- paprika
+- salt/pepper
