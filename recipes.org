@@ -1379,28 +1379,6 @@
 - salt/pepper
 - dried baby shrimp
 - chopped scallion
-** SPICY LOTUS ROOT
-- lotus root
-- garlic
-- dried chili
-- soy sauce
-- black vinegar
-- sugar
-- sesame oil
-- chili oil
-- salt
-- sichuan  peppercorn (opt)
-- toasted sesame/scallions
-** SICHUAN CUCUMBER SALAD
-- 1/2 cucumbers
-- salt
-- oil
-- garlic
-- sichuan pepper
-- rice vinegar
-- sesame oil
-- sugar
-- chili garlic paste
 ** CONG XIANG QIE NI - STIR FRIED EGGPLANT WITH GREEN ONION
 - eggplant (chinese)
 - green onion
@@ -1471,6 +1449,445 @@
 - white sugar
 - chili oil (opt)
 - sesame oil
+** TOMATO EGG DROP SOUP
+- tomatoes
+- water
+- large eggs (beaten)
+- cornstarch
+- water
+- cooking oil
+- light soy sauce
+- minced ginger
+- chopped green onion
+- coriander (garnish)
+* SICHUAN
+** SPICY LOTUS ROOT
+- lotus root
+- garlic
+- dried chili
+- soy sauce
+- black vinegar
+- sugar
+- sesame oil
+- chili oil
+- salt
+- sichuan  peppercorn (opt)
+- toasted sesame/scallions
+** SICHUAN CUCUMBER SALAD
+- 1/2 cucumbers
+- salt
+- oil
+- garlic
+- sichuan pepper
+- rice vinegar
+- sesame oil
+- sugar
+- chili garlic paste
+
+** SPICY CRISPY POTATOES (SICHUAN)
+- potatoes
+- cooking oil
+- scallions
+- garlic
+- ginger
+- onion
+- salt
+- coriander
+- chinese chili oil (opt)
+- red chili pepper powder
+- cumin
+** KUNG PAO CHICKEN
+*** MAIN
+- chicken
+- peanuts
+- leek onion
+- dried chili peppers
+- cooking oil
+- sichuan peppercorns
+- salt
+- cooking wine
+- cornstarch
+- chili oil
+- salt
+- shaoxing
+*** SAUCE
+- dark soy sauce
+- light soy sauce
+- salt
+- grated ginger
+- green onion
+- garlic
+- cornstarch
+- vinegar
+- water
+- sugar
+** CHINESE TOMATO FISH
+*** MAIN
+- grass carp
+- large tomatoes
+- oyster mushrooms (or beansprouts)
+- garlic cloves
+- celery
+- red onion
+- coriander
+- green onions
+- cooking oil
+*** MARINADE
+- chinese cooking wine
+- minced ginger
+- spring onion whites
+- salt
+- pepper
+- egg white
+- starch
+** SICHUAN FRESH PEPPER CHICKEN
+- chicken legs
+- cornstarch
+- chinese cooking wine
+- salt
+- chili
+- sichuan pepper (dried)
+- oil (for frying)
+- light soy sauce
+- sugar
+** STEAMED CHICKEN WITH CHINESE MUSHROOM
+*** MAIN
+- chicken
+- wood ear mushrooms
+- shiitake
+- chili sauce
+*** MARINADE
+- oyster sauce
+- light soy sauce
+- dark soy sauce (opt)
+- green onions (white parts)
+- ghinger
+- salt
+- sesame oil
+** SICHUAN FRIED RICE
+- rice
+- doubanjiang
+- light soy sauce
+- black vinegar
+- green onions
+- carrots
+- red onion
+- garlic
+- veggie cooking oil
+- salt
+** DRY FRIED (GAN BIAN) CAULIFLOWER
+- cauliflower (small pieces)
+- veggie cooking oil
+- chili peppers
+- sichuan peppercorns
+- green onions
+- garlic
+- salt
+** (GAN BIAN SI JI DOU) SICHUAN DRY-FRIED GREEN BEANS
+- green beans
+- dried red peppers
+- sichuan peppercorns
+- pickled red pepper
+- cooking oil
+- salt
+- garlic
+- ginger (shredded)
+** EASY PORK STIR FRY WITH PEPPERS
+- pork belly
+- oil
+- red bell pepper
+- green bell peppers (2)
+- chinese fermented soy beans
+- light soy sauce
+- salt
+- cooking oil
+- garlic
+- ginger slices
+** CHINESE EGGPLANT SALAD
+*** MAIN
+- long eggplants
+- long chili peppers
+- red long chili peppers (or thai)
+- garlic
+- coriander
+- cooking oil
+*** SAUCE
+- light soy sauce
+- sesame oil
+- black vinegar
+- salt
+- boiled warm water
+** RED BRAISED POTATOES
+- small potatoes
+- garlic
+- doubanjiang
+- cooking oil
+- salt
+- green leaks (1 inch sections)
+** MARINATED BLACK EAR (WOOD EAR MUSHROOM SALAD)
+*** MAIN
+- dried wood ear mushrooms
+- carrot (small section)
+- coriander
+- little red peppers
+*** SAUCE
+- salt
+- light soy sauce
+- sesame oil
+- vinegar
+** SPICY GARLIC RIBS (BRAISED VERSION)
+- ribs
+- doubanjiang
+- garlic
+- spring onion (parts separated)
+- light soy sauce
+- cooking wine
+- peanut oil
+- boiled water
+** SAUTEED SMALL POTATOES WITH SALT AND PEPPER
+- small potatoes
+- spring onions
+- salt
+- pepper
+- peanut oil
+** SPICY PICKLED CUCUMBER SALAD
+- cucumber
+- salt
+- vinegar
+- sesame oil
+- garlic
+- thai chili peppers
+- sichuan peppercorns
+- water
+- peanut oil or other veggie oil
+** FISH FRAGRANT TOFU
+*** MAIN
+- firm tofu
+- spring onions (parts separated)
+- garlic
+- ginger
+- pickled chili peppers
+*** YU SHIANG STIR-FRY SAUCE
+- starch
+- vinegar
+- light soy sauce
+- water
+- sugar
+- chili oil (or sesame)
+** BON BON CHICKEN (BANG BANG CHICKEN)
+*** MAIN
+- boneless chicken breast
+- ginger
+- water
+- shallot
+- onions
+- water
+*** SAUCE
+- sichuan peppercorn powder
+- light soy sauce
+- black vinegar
+- sugar
+- chili oil
+- sesame oil
+- salt
+- chopped spring onions
+** YU XIANG ROU SI (SHREDDED PORK IN HOT GARLIC SAUCE)
+*** MAIN
+- dried wood ear mushrooms
+- pork tenderloin
+- lettuce stem
+- red pepper (fresh)
+- green pepper (fresh)
+- pickled peppers (or fresh long red peppers)
+- garlic cloves
+- ghinger
+- spring onion white parts
+- chopped spring onion (garnish)
+- peanut oil
+*** MARINADE
+- starch
+- salt
+- cooking wine
+*** STIR-FRY SAUCE
+- cornstarch
+- cooking wine (or dry sherry wine)
+- light soy sauce
+- black vinegar
+- sugar
+- salt
+- sesame oil
+** SICHUAN PEPPERCORN CHICKEN
+*** MAIN
+- sichuan peppercorn (green)
+- chicken legs (or chicken breast)
+- cooking oil (deep frying)
+- red pepper (bell?)
+- scallion
+- garlic
+- ginger
+- chili peppers
+- cornstarch
+*** MARINADE
+- cooking wine
+- salt
+- half of egg white
+- cornstarch
+*** STIR-FRY SAUCE
+- cooking wine
+- sesame oil
+- salt
+- light soy sauce
+- cornstarch
+** STUFFED EGGPLANTS IN GARLIC SAUCE
+*** MAIN
+- eggplants
+*** FILLING
+- medium egg
+- ground pork
+- scallion
+- ginger
+- black pepper
+- spring onions
+- salt
+- water
+- medium egg
+*** COATING
+- flour
+- cornstarch
+- water
+- salt
+- 1/2 egg
+*** CHINESE GARLIC SAUCE
+- chili peppers
+- salt
+- sugar
+- vinegar
+- light soy sauce
+- cooking wine
+- garlic
+- scallion
+- cornstarch
+- sesame oil
+- ginger
+** BRAISED SPICY FISH
+*** MAIN
+- freshwater fish
+- doubanjiang
+- dou-chi
+- cooking oil
+- green bell pepper
+- red bell pepper
+- ginger
+- garlic
+- scallion
+- cooking wine
+- spring onions
+*** MARINADE
+- cooking wine
+- salt
+** SPICY POTATO WEDGES
+- medium potato
+- chili pepper powder
+- sichuan peppercorn powder
+- cooking oil
+- salt
+- cumin
+- garlic
+- coriander (sprinkling)
+** HOT AND SOUR SOUP
+*** MAIN
+- tofu
+- shiitake
+- wood ear mushrooms
+- red chili pepper
+- ham sausage/chicken leg
+- medium eggs (beaten)
+- spring onions
+- coriander
+- water/stock
+- black vinegar
+- cooking wine
+- black pepper
+- salt
+- sesame oil
+- soy sauce
+*** STARCH
+- cornstarch
+- water
+** SALT AND PEPPER TOFU
+*** MAIN
+- firm tofu
+- black pepper (opt)
+- salt
+- peanut oil
+- whole sichuan peppercorns
+- sichuan peppercorn powder/salt
+- chopped spring onion
+*** GARLIC VERSION
+- long red pepper (no seeds)
+- garlic
+- coriander
+** MAPO TOFU (VEGETARIAN)
+*** MAIN
+- tofu
+- shiitake
+- doubanjiang
+- shallots (white)
+- garlic
+- ginger
+- sichuan peppercorn powder
+- oil
+- salt
+- light soy sauce
+- water
+- salt
+*** WATER STARCH
+- water
+- starch (tapioca/corn)
+** SPICY GRILLED FISH
+- whole fresh fish
+- shiitake
+- fresh chili peppers (sliced)
+- onion (sliced)
+- coriander
+- cumin
+- five spice
+- chili powder
+- doubanjiang
+- sichuan peppercorns
+- garlic
+- ginger
+- shallot sections
+- salt
+** MUSHROOM AND CABBAGE STIR-FRY
+- medium cabbage (hand-shredded)
+- button/white mushrooms
+- dried chili pepper
+- cooking oil
+- garlic
+- chives (cut)
+- salt
+- white cooking wine
+- soy sauce
+- black vinegar
+** CHINESE CABBAGE STIR-FRY
+*** MAIN
+- napa cabbage (remove parts with fresh leaves)
+- veggie oil (frying)
+- garlic 
+- ginger
+- doubanjiang
+- green onion (parts separated)
+- fresh thai red chili pepper (or sichuan pickled red pepper)
+- salt
+*** SAUCE
+- sugar
+- starch
+- light soy sauce
+- black vinegar
+- cooking wine
+- sesame oil (opt)
+- water
 * FILIPINO
 ** PANCIT
 - dried rice noodles
