@@ -1085,7 +1085,7 @@
 - oyster sauce
 - salt
 - white pepper
-** CABBAGE AND GLASS NOODLES STIR-FRY
+** CABBAGE AND GLASS NOODLES STIR-FRY I
 - cellophane noodles
 - cabbage cut into strips
 - 2 eggs
@@ -1460,6 +1460,85 @@
 - minced ginger
 - chopped green onion
 - coriander (garnish)
+** PAN-FRIED TOFU WITH EGG AND CHIVE
+*** INGREDIENTS
+- 1 egg, beaten
+- 3 chinese chives
+- salt/pepper
+- firm tofu
+- cornstarch
+- oil
+*** SAUCE
+- sesame oil
+- stock/water
+- light soy
+- green onion
+- thai pepper
+- coriander (cumin/oregano)
+- sesame seeds
+** ROASTED EGGPLANTS WITH GARLIC (蒜香烤茄子)
+*** INGREDIENTS
+- long purple eggplants
+- garlic
+- oil
+- light soy
+ salt
+- five spice
+- green onion (green part)
+- garlic chili or other spicy sauce
+** STIR FRIED BOK CHOY WITH TOFU SKIN ((腐皮青菜)
+- oil
+- minced ginger
+- garlic
+- bok choy
+- salt
+- sugar
+- sesame oil
+- white pepper
+- water
+,- tofu skin
+- cornstarch
+** BROCCOLI WITH GARLIC SAUCE
+- broccoli
+- dark soy sauce
+- soy sauce
+- rice wine vinegar
+- sugar
+- chicken/veggie stock
+- sesamie oil
+- white pepper
+- veggie poil
+- garlic
+- shaoxing wine
+- cornstarch slurry
+- chili oil (opt)
+** CABBAGE AND GLASS NOODLES STIR-FRY II
+- shredded cabbage
+- glass noodles
+- green onion
+- garlic
+- ginger
+- chili pepper
+- cooking oil
+- light soy
+- salt
+- sugar
+- sichuan peppercorn (opt)
+** SOY SAUCE PAN FRIED NOODLES (CANTONESE CHOW MEIN)
+*** INGREDIENTS
+- dried egg noodles
+- bean sprouts
+- chives
+- green onion
+- cooking oil
+- salt
+- sesame seeds (garnish)
+*** SAUCE
+- light soy
+- dark soy
+- sesame oil
+- water
+
 * SICHUAN
 ** SPICY LOTUS ROOT
 - lotus root
