@@ -946,7 +946,7 @@
 - dried shrimp
 - napa cabbage
 - salt
-** QIN CAI CHAO NIU ROU - CELERY AND BEEF
+** CELERY AND BEEF (芹菜炒牛肉)
 - cornstarch
 - beef flank steak or shoulder steak
 - soy sauce
@@ -1539,6 +1539,29 @@
 - sesame oil
 - water
 
+** DRIED BEAN CURD WITH CELERY
+*** INGREDIENTS
+- dried bean curd (blanched)
+- celery rib (blanched)
+- half carrot (blanched)
+- sesame seeds
+*** DRESSING
+- garlic, minced
+- white vinegar
+- sesame oil
+- sugar
+- salt to taste
+** BABY BOK CHOY WITH SHIITAKE (冬菇扒小白菜)
+- baby bok choy
+- minced garlic
+- shiitake
+- soy sauce
+- sugar
+- oyster sauce
+- cooking wine
+- sesame oil
+- water
+- corn starch
 * SICHUAN
 ** SPICY LOTUS ROOT
 - lotus root
@@ -1967,6 +1990,241 @@
 - cooking wine
 - sesame oil (opt)
 - water
+** GINGER AND SCALLION FISH  (姜葱鱼片)
+*** INGREDIENTS
+- basa fillet in pieces
+- ginger
+- scallion
+- oil
+*** SAUCE
+- soy sauce
+- oyster sauce
+- cornstarch
+- sugar
+- sesame oil
+- water
+- salt- white pepper
+*** MARINADE (10 min)
+- cornstarch
+- shaoxing
+** STIR FRIED NAPA CABBAGE
+- napa cabbage (chopped)
+- straw mushrooms
+- garlic
+- dried shrimp
+- oyster sauce
+- cooking oil
+** BRAISED BEAN CURD (FIRM TOFU) WITH MUSHROOMS
+- firm tofu
+- ground pork
+- shiitake
+- scallion
+- sweet dark soy sauce
+- oyster sauce
+- sugar
+- water
+- water / starch
+- oil
+- garlic
+- white pepper
+** MUSHROOM CHICKEN
+*** INGREDIENTS
+- boneless chicken breast
+- cornstarch
+- oil
+- ginger
+- mushroom
+- zucchini
+*** SAUCE
+- soy sauce
+- oyster sauce
+- sugar
+- white pepper
+- sesame oil
+- water
+- cornstarch
+- salt
+** BLACK PEPPER CHICKEN
+- boneless chicken breast
+- oil
+- onion
+- green bell pepper
+- black pepper
+- soy sauce (1 tbsp for marinade)
+- sugar
+- maggi seasoning
+** TOMATO AND TOFU EGGS
+*** INGREDIENTS
+- beaten eggs
+- tomatoes
+- soft tofu
+- scallion
+- oil
+*** SAUCE
+- ketchup
+- oyster sauce
+- chicken broth
+- sugar
+- sesame oil
+- white pepper
+** MANDARIN CHICKEN
+** CHICKEN AND BROCCOLI
+*** INGREDIENTS
+- chopped chicken breast
+- cornstarch
+- salt
+- broccoli
+- oil
+- garlic, minced
+*** SAUCE
+- soy sauce
+- oyster sauce
+- sesame oil
+- sugar
+- cornstarch
+- water
+- white pepper
+*** INGREDIENTS
+- boneless chicken breasts
+- oil
+- scallion
+*** SAUCE
+- soy sauce
+- lemon juice
+- sugar
+- ginger
+** GARLIC MUSHROOM BOK CHOY
+- oil
+- garlic, minced
+- shiitake
+- bok choy
+- oil
+** GINGER SOY CHICKEN
+*** INGREDIENTS
+- chicken wings
+- oil
+- ginger
+- soy sauce
+- sweet soy sauce
+- white pepper
+- water
+- sesame oil
+- scallion
+** HOISIN CHICKEN
+*** INGREDIENTS
+- oil
+- garlic
+- broccoli
+- chicken breast
+- shiitake
+- carrot
+- salt/sugar
+*** MARINADE
+- shaoxing
+- cornstarch
+*** SAUCE
+- hoisin
+ soy sauce
+- sesame oil
+- white pepper
+- corn starch
+- water
+** ONION SCALLION CHICKEN
+*** INGREDIENTS
+- boneless chicken breast
+- cooking oil
+- scallion
+- onion
+- ginger
+*** MARINADE
+- cornstarch
+- shaoxing
+*** SAUCE
+- oyster sauce
+- soy sauce
+- dark soy sauce
+- white pepper
+- sesame oil
+- sugar
+- cornstarch
+- water 
+** ALMOND CHICKEN
+*** INGREDIENTS
+- chicken breast
+- cornstarch
+- oil
+- ginger
+- snap peas/ snow peas
+- baby carrots
+- almonds
+*** SAUCE
+- oyster sauce
+- soy sauce
+- corn starch
+- sugar
+- water
+- sesame oil
+** MONGOLIAN CHICKEN
+*** INGREDIENTS
+- chicken breast
+- soy sauce
+- shaoxing
+- sesame oil
+- cornstarch
+- oils
+- garlic
+- ginger
+- scallions
+- white sesame (opt)
+*** SAUCE
+- oyster sauce
+- soy sauce
+- water
+- sugar
+- dark soy sauce
+** BOK CHOY CHICKEN
+*** INGREDIENTS 
+- chicken breast
+- oil
+- bok choy
+- ginger
+*** MARINADE
+- soy sauce
+- cornstarch
+*** SAUCE
+- oyster sauce
+- water
+- sesame oil
+- white pepper
+- wine
+- sugar
+** CHIVES OMELETTE
+*** INGREDIENTS
+- chives
+- beaten eggs
+- oil
+*** SEASONINGS
+- sesame oil
+- fish sauce
+- oyster sauce
+- salt
+* TAIWANESE
+** TOMATO FLAVORED SCRAMBLED EGG (蕃茄炒蛋 )
+- eggs (scrambled)
+- tomatoes
+- mushrooms
+- chinese chives
+- corn flour / corn starch
+- sugar / starch
+- stock / water
+- tomato ketchup
+** TAIWANESE CABBAGE SALAD
+- taiwanese cabbage
+- english cucumber
+- garlic salt
+- sesame oil
+- whole kernel corn
+- green onions
 * FILIPINO
 ** PANCIT
 - dried rice noodles
