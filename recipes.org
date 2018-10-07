@@ -2208,6 +2208,7 @@
 - fish sauce
 - oyster sauce
 - salt
+
 * HONG KONG
 ** CHICKEN AND RICE SOUP WITH CHOY SUM  (菜心雞湯飯)
 - whole chicken
@@ -2356,6 +2357,100 @@
 - salt
 - whie pepper
 - corn starch
+
+** PAN FRIED CHEONG FUN WITH EGG (香煎腸粉炒蛋)
+- cheong fun (brown first)
+- egg (add after browned)
+- hoisin
+- water
+- sweet soy sauce
+** YANG CHUN/SOY SAUCE NOODLES (杨春面)
+- noodles (挂面)
+- lard or sesame oil
+- soy sauce
+- sugar
+- green onion
+- chicken stock or liquid for cooking noodles (cooking noodles and add into sauce)
+** YANG CHUN/SOY SAUCE NOODLES (杨春面)
+- noodles (挂面)
+- lard or sesame oil
+- soy sauce
+- sugar
+- green onion
+- chicken stock or liquid for cooking noodles (cooking noodles and add into sauce)
+** GINGER SCALLION HOKKIEN NOODLES
+- boneless chicken thighs (cook separately)
+- corn starch
+- veggie oil
+- soy sauce (1 + 1.5 divided)
+- ginger
+- scallions
+- red chili (opt)
+- hokkien noodles or lo mein
+- shaoxing
+- dark soy sauce
+* MALAYSIAN CHINESE
+** CHINESE LEEKS SAUSAGE STIR FRY
+- lap cheong (2, soaked the nbrowned separately)
+- chinese leeks
+- garlic, inced
+- soy sauce
+- salt
+- ground pepper
+- corn starch
+- sesame oil
+** SQUID AND CELERY STIRY FRY
+- celery (cooked separately)
+- squid (cooked separately)
+- veggie oil
+- red chili (seeded)
+- soy sauce
+- shaoxing
+- ground pepper
+- salt 
+- corn starch
+** STEAMED LAP CHEONG AND TARO
+*** INGREDIENTS
+- lap cheong (12oz, soaked then steamed with rest)
+- taro (browned in slicess then steamed with rest)
+- veggie oil
+- onion
+- red chili (seeded)
+- soy sauce
+*** DRESSING
+- veggie oil
+- sesame oil
+- garlic
+- soy sauce
+** KUALA LUMPUR STYLE CHEE CHEONG FUN
+- cheong fun (steam separately)
+- fish cakes
+- fried fish balls
+- chicken broth
+- salt
+- hoisin
+- sriracha
+- sesame seeds
+- shallots/sesame oil
+** GREEN BEANS OMELETTE
+- eggs 
+- soy sauce
+- pepper
+- veggie oil
+- red chili (seeded)
+- green beans
+** CHAR KOAY KAK (FRIED RICE CAKE)
+- rice cake (brown separately)
+- veggie oil
+- garlic, minced
+- chai poh (pickled radish, chopped)
+- chili paste
+- shrimp
+- soy sauce
+- salt/pepper
+- eggs (crack over top at end)
+- chinese chives 
+- bean sprouts (trimmed, add at very end))
 
 * TAIWANESE
 ** TOMATO FLAVORED SCRAMBLED EGG (蕃茄炒蛋 )
