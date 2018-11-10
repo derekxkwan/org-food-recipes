@@ -1486,7 +1486,7 @@
 - five spice
 - green onion (green part)
 - garlic chili or other spicy sauce
-** STIR FRIED BOK CHOY WITH TOFU SKIN ((腐皮青菜)
+** STIR FRIED BOK CHOY WITH TOFU SKIN (腐皮青菜)
 - oil
 - minced ginger
 - garlic
@@ -1562,6 +1562,62 @@
 - sesame oil
 - water
 - corn starch
+** WINTER MELON SOUP WITH MEATBALL (冬瓜丸子汤)
+*** MEATBALLS
+- ground pork
+- minced ginger
+- shaoxing
+- light soy
+- salt
+- egg white
+- cornstarch
+*** SOUP
+- winter melon
+- pork or chicken broth
+- cilantro
+** GREEN ONION TOFU SALAD (小葱拌豆腐)
+- silken tofu
+- sea salt
+- chopped green onion (green part)
+- sesame oil
+** GOLDEN NEEDLE MUSHROOM SALAD (凉拌金针菇)
+*** SALAD
+- enoki
+- cucumber (chinese)
+- jalapeno (opt)
+- garlic
+*** SAUCE
+- light soy
+- sugar
+- salt
+- sesame oil
+** STIR-FRIED CAULIFLOWER WITH TOMATO SAUCE
+- cauliflower
+- peanut/veggie oil
+- tomato
+- garlic
+- tomato paste
+- sugar
+- salt
+** POTATO FRIED RICE (土豆炒饭)
+- veggie oil
+- bacon (chopped)
+- diced potato
+- light soy
+- beaten eggs
+- white rice
+- leftover meat
+- green peas
+- cumin
+- white pepper
+- green onions
+- salt
+** YUNNAN STYLE PINEAPPLE RICE (菠萝饭)
+- glutinous rice
+- pineapple
+- sugar
+- salt
+- raisins (opt)
 * SICHUAN
 ** SPICY LOTUS ROOT
 - lotus root
